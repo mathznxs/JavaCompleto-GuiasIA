@@ -20,6 +20,6 @@ public class Program {
         System.out.print("Quantidade: ");
         product.quantity = sc.nextInt();
 
-        System.out.printf("\nNome: %s;\nPreço: R$%.2f\nQuantidade: %d", product.name, product.price, product.quantity);
+        System.out.println("\n" + product);
     }
 }

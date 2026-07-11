@@ -15,4 +15,13 @@ public class Product {
         this.quantity -= quantity;
     }
 
+    public String toString() {
+        return name
+                + ", Preço: R$"
+                + String.format("%.2f", price)
+                + ", Quantidade: "
+                + quantity
+                + ", Valor total em estoque: R$"
+                + String.format("%.2f", totalValueInStock());
+    }
 }
