@@ -1,6 +1,6 @@
-package com.mathdev.javacourse.aulas.secao9.exercicioBank.application;
+package com.mathdev.javacourse.aulas.secao9.exerciciosfixacao.exercicioBank.application;
 
-import com.mathdev.javacourse.aulas.secao9.exercicioBank.entities.Account;
+import com.mathdev.javacourse.aulas.secao9.exerciciosfixacao.exercicioBank.entities.Account;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.mathdev.javacourse.aulas.secao9.exercicioBank.entities;
+package com.mathdev.javacourse.aulas.secao9.exerciciosfixacao.exercicioBank.entities;
 
 public class Account {
     private String holder;
