@@ -1,4 +1,4 @@
-package com.mathdev.javacourse.aulas.secao10.application;
+package com.mathdev.javacourse.aulas.secao10.aula97.application;
 
 import java.util.Locale;
 import java.util.Scanner;
