@@ -28,7 +28,6 @@ public class Program {
             soma += vect[i].getPrice();
         }
         double media = soma / vect.length;
-
         System.out.printf("\nA média de preço dos produtos é R$%.2f", media);
     }
 }
