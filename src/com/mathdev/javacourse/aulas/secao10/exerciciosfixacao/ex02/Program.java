@@ -1,4 +1,4 @@
-package com.mathdev.javacourse.aulas.secao10.exerciciosfixacao.ex02.application;
+package com.mathdev.javacourse.aulas.secao10.exerciciosfixacao.ex02;
 
 import java.util.Locale;
 import java.util.Scanner;
